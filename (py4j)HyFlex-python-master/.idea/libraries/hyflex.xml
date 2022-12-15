@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="hyflex">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/HyFlex-python-master/hyflex/qap.jar!/" />
+      <root url="jar://$PROJECT_DIR$/HyFlex-python-master/hyflex/chesc-fixed-no-ps.jar!/" />
+      <root url="jar://$PROJECT_DIR$/HyFlex-python-master/hyflex/chesc-ps.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
